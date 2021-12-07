@@ -1,0 +1,43 @@
+body{
+    background: #44CEAD;
+    background: -moz-linear-gradient(left, #44CEAD 0%, #1C6EA4 50%, #AD41C5 100%);
+    background: -webkit-linear-gradient(left, #44CEAD 0%, #1C6EA4 50%, #AD41C5 100%);
+    background: linear-gradient(to right, #44CEAD 0%, #1C6EA4 50%, #AD41C5 100%);
+}
+table{
+    background: #A30000;
+    background: -moz-linear-gradient(left, #A30000 0%, #66A467 61%, #15B002 100%);
+    background: -webkit-linear-gradient(left, #A30000 0%, #66A467 61%, #15B002 100%);
+    background: linear-gradient(to right, #A30000 0%, #66A467 61%, #15B002 100%);
+}
+td{
+    color: rgba(255, 255, 255, 0.794);
+}
+.row  {
+    background: rgb(34,193,195);
+background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+}
+.lol{
+-webkit-box-shadow: 8px 0px 0px 0px #DCD0C0, 0px 8px 0px 0px #B1938B, -8px 0px 0px 0px #4E4E56, 0px 0px 0px 8px #DA635D, 5px 5px 15px 5px rgba(0,0,0,0); 
+box-shadow: 8px 0px 0px 0px #DCD0C0, 0px 8px 0px 0px #B1938B, -8px 0px 0px 0px #4E4E56, 0px 0px 0px 8px #DA635D, 5px 5px 15px 5px rgba(0,0,0,0);
+    border-radius: 20px;
+    width: 1150px;
+    height: 400px;
+    transition: all 0.8s;
+}
+.dad{
+    background-color: greenyellow;
+    color: black;
+}
+.mam{
+    background-color: green;
+}
+.bad{
+    background-color: rgb(245, 83, 83);
+}
+.baded{
+    background-color: rgb(255, 0, 0);
+}
+.norm{
+    background-color: rgba(253,187,45,1);
+}
